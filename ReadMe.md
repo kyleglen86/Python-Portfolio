@@ -1,0 +1,1 @@
+Welcome to my Python Portfolio! This repository showcases my skills in web scraping using Python, demonstrating how to extract data from websites and organize it into an Excel file. Beyond web scraping, this project extends into the realm of data analysis using Python, showcasing my proficiency in handling web data and utilizing it for practical applications.
